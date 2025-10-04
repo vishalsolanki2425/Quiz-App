@@ -1,0 +1,18 @@
+.container {
+    max-width: 1200px;
+    background-color: rgb(143, 143, 143);
+}
+
+.question {
+    padding: 150px;
+    color: white;
+    max-width: 50%;
+    margin: 10px;
+    border: 1px solid #474747;
+    border-radius: 5px;
+}
+
+.question h6{
+    /* padding: 150px; */
+    color: white;
+}
